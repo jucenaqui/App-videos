@@ -1,0 +1,24 @@
+{
+  "name": "app-videos",
+  "version": "1.0.0",
+  "description": "app para ver videos",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jucenaqui/App-videos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jucenaqui/App-videos/issues"
+  },
+  "homepage": "https://github.com/jucenaqui/App-videos#readme"
+}
